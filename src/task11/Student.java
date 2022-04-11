@@ -62,8 +62,5 @@ public class Student {
             System.out.println(iterator.toString());
         }
     }
-    
-
-    
 
 }
